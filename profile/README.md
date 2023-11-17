@@ -11,7 +11,7 @@ Since I (Crome696) were part of this community, I´m taking over the name and wi
 
 ### GumpStudio
 
-Provides a Fork of Bradley Uffners together with a few QOL updates making it more useful or fixing exceptions.
+Provides a Fork of Bradley Uffners GumpStudio together with a few QOL updates making it more useful or fixing exceptions.
 
 ### ServUO
 
